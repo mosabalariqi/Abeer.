@@ -1,0 +1,78 @@
+.Weapons-Picture {
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin-top: 70px;
+    margin-left: 20px;
+    background-size:contain ;
+}
+.circle-1{
+    width: 60px;
+    height: 60px;
+    background-color: rgb(78, 2, 2);
+    float: left;
+    margin-top: 350px;
+    background-size:contain ;}
+.circle-2 {
+    width: 90px;
+    height: 90px;
+    background-color: rgb(78, 2, 2);
+    margin-top: 30px;
+    float:left;
+    margin-left: 60px;
+    background-size:contain ;}
+.Exchange-of-information-photo {
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin-top: 470px;
+    background-size:contain ;}
+
+.center-circle {
+    width: 30%;
+    height: 380px;
+    margin: auto;
+    background-color: rgb(78, 2, 2);
+    float: left;
+    margin-top: 100px;
+    margin-left: 20px;
+    background-size:contain ;}
+.insid-circle {
+    width: 300px;
+    height: 40px;
+    text-align: center;
+    font-size: 65px;
+    float: left;
+    margin-top: 150px;
+    margin-left: 50px;
+    background-size:contain ;}
+    
+.Picture-killed {
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin-top:150px ;
+    margin-left: 60px;
+    background-size:contain ;}
+.circle-3{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(78, 2, 2);
+    float: left;
+    margin-top:370px ;
+    background-size:contain ;}
+.circle-4 {
+    width: 70px;
+    height: 70px;
+    background-color: rgb(78, 2, 2);
+    float:left;
+    margin-top:30px ;
+    margin-left: 60px;
+    background-size:contain ;}
+.Drug-image {
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin-top:390px ;
+    margin-left: 40px;
+    background-size:contain ;}
